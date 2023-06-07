@@ -16,4 +16,6 @@ Placing the "My Website" Folder under htdocs folder in xampp should be enough to
 3.) Arrangement of Divs in a vertical order to list Items in sequence.
 4.) Including animated image from Genially.
 5.) Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/style.scss':
-                    No such file or directory @ dir_chdir - /github/workspace/docs - causes an error in hosting. 
+                    No such file or directory @ dir_chdir - /github/workspace/docs - causes an error in hosting. Therefore I have decided to use 000webhost.
+                    
+Link to WebHosting: https://bernardotieno.000webhostapp.com/index.php
