@@ -15,3 +15,5 @@ Placing the "My Website" Folder under htdocs folder in xampp should be enough to
 2.) Carousel could not display pictures of projects under skill section the way it was determined.
 3.) Arrangement of Divs in a vertical order to list Items in sequence.
 4.) Including animated image from Genially.
+5.) Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/style.scss':
+                    No such file or directory @ dir_chdir - /github/workspace/docs - causes an error in hosting. 
