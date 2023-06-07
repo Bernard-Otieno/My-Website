@@ -249,5 +249,3 @@ function showSlides() {
 </script>
 </div>
 
-</body>
-</html>

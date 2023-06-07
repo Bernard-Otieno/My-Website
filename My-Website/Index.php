@@ -183,5 +183,3 @@
 
 <!--- Initial commit-->
 
-</body>
-</html>
